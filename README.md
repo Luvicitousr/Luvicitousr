@@ -9,5 +9,5 @@
 
 ### Connect with me:
 <a href="https://www.instagram.com/luvicitousr/">
-  <img align = "left" alt="instagram" width="22px"  src="https://www.pngfind.com/pngs/m/277-2773517_instagram-logo-white-logo-instagram-png-putih-transparent.png"/>
+  <img align = "left" alt="instagram" width="22px"  src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png"/>
 <a/>
