@@ -1,7 +1,7 @@
 # Hello friends 👋, I'm Vinicius Samuel
 ## _A system analyst and developer that love to code_
 
-![Profile views](https://gpvc.arturio.dev/Luvicitousr)
+![Profile views](https://komarev.com/ghpvc/?username=Luvicitousr&style=flat-square)
 
 - I am currently looking for a job in programming
 - I'm currently learning Python language
